@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "sylvan-byway-125109",
+    "project_number": "14620109384",
+    "name": "7ung example"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14620109384:android:bfff872561c965b9",
+        "client_id": "android:tungho.android.example",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "tungho.android.example",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14620109384-bv17umiif4t9p4iqg67rqhsjnon49uck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tungho.android.example",
+            "certificate_hash": "856913234F41881F026FF6FF17617A7DC2695C0A"
+          }
+        },
+        {
+          "client_id": "14620109384-v46jb6v67gbrmf4c0tg1n3hpchbvba4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
